@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Annonator/PlayFabBuddy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annonator&repo=PlayFabBuddy&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/annonator/PlayFabBuddy">
+<a href="https://github.com/annonator/github-actions-azure-runner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annonator&repo=github-actions-azure-runner&theme=chartreuse-dark" />
 </a>
 
