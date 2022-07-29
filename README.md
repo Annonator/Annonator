@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 -->
 # 📩 Stuff I write about
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection with the PlayFab SDK](https://multiplayer.cloud/dependency-injection-with-the-playfab-sdk/)
-- [You just got Azure Credits, now what?](https://multiplayer.cloud/you-just-got-azure-credits-what-now/)
-- [Manual Let&#39;s encrypt setup for Azure App Service](https://multiplayer.cloud/manual-lets-encrypt-setup-for-azure-app-service/)
+- [Dependency Injection with the PlayFab SDK](https://www.multiplayer.cloud/posts/dependency-injection-with-the-playfab-sdk/)
+- [You just got Azure Credits, now what?](https://www.multiplayer.cloud/posts/you-just-got-azure-credits-what-now/)
+- [Manual Let&#39;s encrypt setup for Azure App Service](https://www.multiplayer.cloud/posts/manual-lets-encrypt-setup-for-azure-app-service/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stuff I work on (maintain)
