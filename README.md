@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 # 📩 Stuff I write about
 <!-- BLOG-POST-LIST:START -->
+- [PlayFab Data Explorer Timing out](https://www.multiplayer.cloud/posts/playfab-dataexplorer-timeout/)
 - [Dependency Injection with the PlayFab SDK](https://www.multiplayer.cloud/posts/dependency-injection-with-the-playfab-sdk/)
 - [You just got Azure Credits, now what?](https://www.multiplayer.cloud/posts/you-just-got-azure-credits-what-now/)
 - [Manual Let&#39;s encrypt setup for Azure App Service](https://www.multiplayer.cloud/posts/manual-lets-encrypt-setup-for-azure-app-service/)
