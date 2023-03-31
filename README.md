@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 # 📩 Stuff I write about
 <!-- BLOG-POST-LIST:START -->
+- [Compiling PlayFabs Multiplayer SDK&#39;s with CLANG](https://www.multiplayer.cloud/posts/playfab-lobby-clang/)
 - [PlayFab Data Explorer Timing out](https://www.multiplayer.cloud/posts/playfab-dataexplorer-timeout/)
 - [Dependency Injection with the PlayFab SDK](https://www.multiplayer.cloud/posts/dependency-injection-with-the-playfab-sdk/)
 - [You just got Azure Credits, now what?](https://www.multiplayer.cloud/posts/you-just-got-azure-credits-what-now/)
